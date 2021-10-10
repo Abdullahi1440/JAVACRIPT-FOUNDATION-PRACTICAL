@@ -1,0 +1,26 @@
+.normalmode{
+    background-color: #eee;
+}
+/* .darkMode{
+    background-color: black;
+    color: white;
+} */
+
+input{
+    margin: 5px;
+    padding: 5px;
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    height: 30px;
+}
+button{
+    background: hsl(184, 42%, 57%);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 2px solid pink;
+    width: 20%;
+    height:40px;
+    
+    
+}
